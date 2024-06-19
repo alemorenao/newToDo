@@ -1,0 +1,10 @@
+.alert {
+    padding: 5px;
+    font-size: smaller;
+    color: red;
+    border: 1;
+}
+
+p {
+    margin-bottom: 0;
+}
