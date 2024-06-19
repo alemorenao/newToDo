@@ -31,7 +31,6 @@ import { ToDoTask } from '../../interfaces/to-do-task';
       </div>
       <!-- Modal Footer-->
       <div class="modal-footer">
-        <p>{{inputForm.status}}</p>
           <button type="submit" class="btn btn-danger" data-bs-dismiss="modal">Add to List</button>
       </div>
     </form> 
